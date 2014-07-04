@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Some Awesome Title"
+date: 2014-07-03 09:15:27 +0530
+comments: true
+categories: [Awesome, Amazing, Beautiful, Cool]
+external-url: http://yourexternallink.com
+---
+
+What a fun man! Nice<br>gdgdfgyt
+external-url
