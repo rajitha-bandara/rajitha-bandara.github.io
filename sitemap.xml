@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://rajitha-bandara.github.io/blog/2014/07/04/dfgdfgg/</loc>
+    <lastmod>2014-07-04T21:33:00+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://rajitha-bandara.github.io/blog/2014/07/03/some-awesome-title/</loc>
+    <lastmod>2014-07-03T09:15:27+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://rajitha-bandara.github.io/blog/archives/</loc>
+    <lastmod>2014-07-05T20:36:47+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://rajitha-bandara.github.io/</loc>
+    <lastmod>2014-07-05T20:36:47+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rajitha-bandara.github.io/about/</loc>
+    <lastmod>2014-07-05T20:36:47+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+</urlset>
