@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Tips"
+date: 2014-07-08 22:37:18 +0530
+comments: true
+categories: 
+---
+<p>If you install RVM by source you may need to start it manually with</p>
+
+<code>source /home/rajitha/.rvm/scripts/rvm</code>
+
+<p>Do you need to login with
+<code>/bin/bash --login</code>
+to run rake tasks</p>
