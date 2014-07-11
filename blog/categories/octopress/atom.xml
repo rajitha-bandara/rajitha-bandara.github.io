@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | codezone4]]></title>
   <link href="http://rajitha-bandara.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://rajitha-bandara.github.io/"/>
-  <updated>2014-07-08T22:47:49+05:30</updated>
+  <updated>2014-07-11T20:57:10+05:30</updated>
   <id>http://rajitha-bandara.github.io/</id>
   <author>
     <name><![CDATA[Rajitha Bandara]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Installing Octpress for Beginners]]></title>
-    <link href="http://rajitha-bandara.github.io/blog/2014/07/08/installing-octpress-for-beginners/"/>
+    <title type="html"><![CDATA[Installing Octopress for Beginners]]></title>
+    <link href="http://rajitha-bandara.github.io/blog/2014/07/08/installing-octopress-for-beginners/"/>
     <updated>2014-07-08T21:56:29+05:30</updated>
-    <id>http://rajitha-bandara.github.io/blog/2014/07/08/installing-octpress-for-beginners</id>
+    <id>http://rajitha-bandara.github.io/blog/2014/07/08/installing-octopress-for-beginners</id>
     <content type="html"><![CDATA[<p>Octopress is a static blogging platform based on Jekyll. Octopress installation for first time might be tricky. If you &rsquo;re a beginner and love Octopress engine, here &rsquo;re some crystal clear beginner tutorials. Have a look.</p>
 
 <p><a href="http://www.lennu.net/2012/05/11/octopress-installation-in-ubuntu-12-dot-04-with-rsync/" tarrget="blank">1. <a href="http://www.lennu.net/2012/05/11/octopress-installation-in-ubuntu-12-dot-04-with-rsync/">http://www.lennu.net/2012/05/11/octopress-installation-in-ubuntu-12-dot-04-with-rsync/</a></a></p>
